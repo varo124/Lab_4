@@ -1,6 +1,6 @@
 uint i; 
-… 
-if (i.ToString().Length == 1) 
-{ 
-... 
-} 
+â€¦ 
+int arr[10]; 
+int i; 
+for (i = 0; i< 10; i++) 
+arr[i] = 0;
